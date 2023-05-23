@@ -20,8 +20,8 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-re-enter"><b>Re-enter Password</b></label>
+    <input type="password" placeholder="Re-enter Password" name="psw-re-enter" id="psw-re-enter" required>
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
